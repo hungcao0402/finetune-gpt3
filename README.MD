@@ -31,4 +31,4 @@ pip install -r requirements.txt
 streamlit run steamlit_demo.py
 ```
 
-6. Open a web browser and go to http://localhost:5000 to access the chatbot interface.
+6. Open a web browser and go to http://localhost:8501 to access the chatbot interface.
